@@ -1,4 +1,4 @@
-# Visualização de Dados - Letramento de Dados (Colabs)
+# Visualização de Dados - Letramento de Dados
 
 Este repositório contém três notebooks Jupyter criados pelos integrantes da frente Letramento de Dados do projeto de extensão universitária **InformAção**, da **Universidade Federal do Rio de Janeiro (UFRJ)**. Esses notebooks foram desenvolvidos como guias para ensinar de maneira acessível como capturar, realizar limpezas simples, extrair e visualizar dados. O objetivo é capacitar alunos do Ensino Médio e professores leigos no assunto para utilizarem dados reais em suas práticas educacionais.
 
